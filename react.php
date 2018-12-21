@@ -7,7 +7,7 @@
 */
 error_reporting(0);
 $SET = array();
-$SET['token'] = "EAAAAAYsX7TsBAFc4sgUGxUb7xqqdOLg6ysKSZCVz6NGGmNvfNpWhPdi2wyOQK7cmSa9iLZBEOCWJZBzFPrdb86ZBVR34f6C6qxy2jS9odfseAT4Ni4zxSIvrMszQIYGdT04wos9c4nZBAxVOhjIyobtwjrC9WqICAmwY6lxjfgIvP71lOZCiLJuG8seFTcW9QgLPrEeAat0gSBeIonePUI";
+$SET['token'] = 'token'; 
 $SET['limit'] = "100";
 $SET['react'] = 1; /* 0 LIKE | 1 LOVE | 2 HAHA | 3 WOW | 4 SAD | 5 ANGRY */
 $SET['delay'] = 5;
