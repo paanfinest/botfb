@@ -7,10 +7,9 @@
 */
 error_reporting(0);
 $SET = array();
-$SET['token'] = "EAAAAAYsX7TsBAFc4sgUGxUb7xqqdOLg6ysKSZCVz6NGGmNvfNpWhPdi2wyOQK7cmSa9iLZBEOCWJZBzFPrdb86ZBVR34f6C6qxy2jS9odfseAT4Ni4zxSIvrMszQIYGdT04wos9c4nZBAxVOhjIyobtwjrC9WqICAmwY6lxjfgIvP71lOZCiLJuG8seFTcW9QgLPrEeAat0gSBeIonePUI";
-$SET['limit'] = "250";
+$SET['token'] = "EAAAAAYsX7TsBAGGSMdGRruOqrffsQE8LuBt4PkPlZC29QPACV1TIao5svn1XAJABZCUdDrfwfBWHNtZC7zMywLBIbt3RjbxZCrL7xoVJuRu9yMwL7j04OjZCasBceLX6CulcHIvjPxMZAyH2DU2kTcybR1gd1b9Y2R5bTNM8QXZB2tBeVKoiktEfv7rPkQ9Lxvu0eCWrBZCHzdA9cJVuswCP";
 $SET['react'] = 2; /* 0 LIKE | 1 LOVE | 2 HAHA | 3 WOW | 4 SAD | 5 ANGRY */
-$SET['delay'] = 3;
+$SET['delay'] = 5;
 $SET['ulang'] = true;
 $SET['bot_komen'] = false; /* true bot aktif dan false bot mati */
 $SET['grab_token'] = true; /* true untuk aktif dan false untuk mati */
